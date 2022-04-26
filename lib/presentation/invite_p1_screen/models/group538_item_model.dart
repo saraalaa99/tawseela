@@ -1,0 +1,1 @@
+class Group538ItemModel {}

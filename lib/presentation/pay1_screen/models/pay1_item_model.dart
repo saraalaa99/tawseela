@@ -1,0 +1,1 @@
+class Pay1ItemModel {}

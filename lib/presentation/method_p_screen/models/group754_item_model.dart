@@ -1,0 +1,1 @@
+class Group754ItemModel {}
